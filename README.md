@@ -1,7 +1,9 @@
 🖤 BLACK HAT
+---
 <img width="1254" height="1254" alt="77254" src="https://github.com/user-attachments/assets/3d3ca201-7df8-492f-9333-814e5a561ef0" />
-             BY :[KRISHN] 
-
+----
+BY :[KRISHN] 
+----
 <p align="center">
   <img src="https://img.shields.io/badge/BLACK%20HAT-CYBER%20TOOLKIT-ff0000?style=for-the-badge&logo=linux&logoColor=white">
 </p><p align="center">
@@ -9,13 +11,12 @@
 </p><p align="center">
   A modern Android toolkit for Linux, Termux, development<br>
   and authorized cybersecurity learning.
-</p>---
+</p>
 
 🚀 DOWNLOAD
-
 <p align="center">
   <a href="https://mega.nz/file/6rJ1VABI#-ruXXgn_yQT4Zgz2ACo3fSF5XgHx4giiCILNkk8bm6g">
-    <img src="https://img.shields.io/badge/⬇%20DOWNLOAD%20BLACK%20HAT%20APK-FF0000?style=for-the-badge&logo=android&logoColor=white" alt="Download APK">
+<img src="https://img.shields.io/badge/⬇%20DOWNLOAD%20BLACK%20HAT%20APK-FF0000?style=for-the-badge&logo=android&logoColor=white" alt="Download APK">
   </a>
 </p><p align="center">
   🔥 <b>Latest APK • Fast Download • Android</b>
