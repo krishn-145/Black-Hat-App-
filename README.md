@@ -1,7 +1,6 @@
 🖤 BLACK HAT
 <img width="1254" height="1254" alt="77254" src="https://github.com/user-attachments/assets/3d3ca201-7df8-492f-9333-814e5a561ef0" />
-
-BY :[KRISHN] 
+             BY :[KRISHN] 
 
 <p align="center">
   <img src="https://img.shields.io/badge/BLACK%20HAT-CYBER%20TOOLKIT-ff0000?style=for-the-badge&logo=linux&logoColor=white">
@@ -46,13 +45,6 @@ BY :[KRISHN]
 <td align="center">💻<br><b>Terminal UI</b></td>
 </tr>
 </table>---
-
-📱 SCREENSHOTS
-
-<p align="center">
-  <img src="screenshots/home.png" width="250">
-  <img src="screenshots/tools.png" width="250">
-  <img src="screenshots/terminal.png" width="250">
 </p>«📌 Put your screenshots inside the "screenshots" folder.»
 
 ---
